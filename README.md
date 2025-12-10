@@ -4,7 +4,7 @@
 ### en: Using data insights and React interactivity to create informative and atractive dashboards.
 
 
-#### 🛠️ API and Data
+#### ⚙️ Backend & Data Logic
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
