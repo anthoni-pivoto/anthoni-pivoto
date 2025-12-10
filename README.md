@@ -1,7 +1,7 @@
 #### 👋👋 Data Analyst & Frontend Dev 👋👋
 
-pt-br: Unindo a lógica dos dados com a interatividade do React para criar dashboards atrativos e informativos.
-en: Using data insights and React interactivity to create informative and atractive dashboards.
+### pt-br: Unindo a lógica dos dados com a interatividade do React para criar dashboards atrativos e informativos.
+### en: Using data insights and React interactivity to create informative and atractive dashboards.
 
 
 #### 🛠️ API and Data
